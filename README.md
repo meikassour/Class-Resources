@@ -6,6 +6,8 @@ A collection of resources for class. PDFs, Examples and solutions.
 - [Repo, branch, and pull request creation, management and resolution](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 - 
 ## HTML
+- [HTML Examples](/example_code/html/)
+
 
 ## CSS
 
