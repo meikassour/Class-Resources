@@ -28,8 +28,8 @@ Please remember to use the examples provided in the `example_code` folder to hel
 - [HTML Tutorial](https://www.w3schools.com/html/)
 
 ### Solutions
-- [HTML Mini Assignment 1 Solution](/solutions/html/mini_assignment_1_solution.html)
-- [HTML Mini Assignment 2 Solution](/solutions/html/mini_assignment_2_solution.html)
+- [HTML Mini Assignment 1 Solution](/solutions/html/mini_assignment_1.html)
+- [HTML Mini Assignment 2 Solution](/solutions/html/mini_assignment_2.html)
 
 ## CSS
 
