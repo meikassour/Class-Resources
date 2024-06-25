@@ -19,6 +19,7 @@ Find my example below.
 - [HTML Examples](/example_code/html/)
 
 ### Mini Assignments
+Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
 - [HTML Mini Assignment 1](/pdf_files/html/mini_assignment_1.pdf)
 - [HTML Mini Assignment 2](/pdf_files/html/mini_assignment_2.pdf)
 
@@ -27,8 +28,8 @@ Find my example below.
 - [HTML Tutorial](https://www.w3schools.com/html/)
 
 ### Solutions
-- [HTML Mini Assignment 1 Solution]()
-- [HTML Mini Assignment 2 Solution]()
+- [HTML Mini Assignment 1 Solution](/solutions/html/mini_assignment_1_solution.html)
+- [HTML Mini Assignment 2 Solution](/solutions/html/mini_assignment_2_solution.html)
 
 ## CSS
 
