@@ -8,14 +8,9 @@ A collection of resources for class. PDFs, Examples and solutions.
 ## HTML
 - [HTML Examples](/example_code/html/)
 
-
 ## CSS
 
 ## Javascript, JQuery, p5.js
-
-# Examples
-
-# Solutions
 
 # Resources
 - [Getting Started with Git/Github](https://docs.github.com/en/get-started)
