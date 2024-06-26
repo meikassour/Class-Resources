@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*select the class ctnr (container)*/
+.ctnr {
+    display: grid;
+    grid-template-areas: 
+    'intro intro'
+    'cities attractions'
+    'images images';
+    grid-gap: 10px;
+    padding: 20px;
+}
+
+/*select the class items*/
+.intro {
+    grid-area: intro;
+}
+
+.cities {
+    grid-area: cities;
+}
+
+.attractions {
+    grid-area: attractions;
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    grid-area: images;
+}
+
+img {
+    width: auto;
+    height: 150px;
+}
+
+a {
+    position: absolute;
+    right: 150px;
+}

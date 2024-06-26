@@ -1,0 +1,15 @@
+/*Grid uses a grid layout to help organize elements*/
+
+/* Define a grid container */
+.grid-container {
+    display: grid; /* Use grid layout */
+    grid-template-columns: repeat(3, 1fr); /* Create 3 equal-width columns */
+    grid-gap: 10px; /* Set the gap between grid items */
+}
+
+/* Define styles for grid items */
+.grid-item {
+    background-color: #ddd; /* Set the background color */
+    padding: 20px; /* Add padding around the content */
+    text-align: center; /* Center the text horizontally */
+}

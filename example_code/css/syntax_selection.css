@@ -1,0 +1,55 @@
+/* This is a single line comment*/
+
+/* This is a multi-line comment
+   that spans multiple lines */
+
+/* Everything in the html file can be selected by using */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Select by element name */
+h1 {
+    color: red;
+    text-decoration: dashed;
+    text-shadow: none;
+    text-align: right;
+}
+
+/* Selects can be combined with many element names */
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+}
+
+/* Select by class name */
+.my-class {
+    font-size: 16px;
+}
+
+/* Select by class for specific elements only */
+p.class {
+    font-style: italic;
+}
+
+/* Select by ID */
+#my-id {
+    background-color: yellow;
+}
+
+/* Select by attribute */
+[type="text"] {
+    border: 1px solid black;
+}
+
+/* Documentation on pseudo-classes and pseudo-elements */
+/* https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements */
+/* Select by pseudo-class */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Select by pseudo-element */
+p::first-line {
+    font-weight: bold;
+}

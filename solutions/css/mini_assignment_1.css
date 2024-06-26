@@ -1,0 +1,26 @@
+html {
+    background-image: url("https://img.freepik.com/free-photo/realistic-shark-ocean_23-2151415363.jpg?t=st=1719392141~exp=1719395741~hmac=5b17b940ea1e8db5f13d16b71fa33135a9f702dcd7528ac522a0653f4bcf9ec7&w=900");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.body {
+    font-family: cursive;
+    backdrop-filter: blur(5px);
+}
+
+h1 {
+    color: blue;
+    ;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    color: azure;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3, ul {
+    color:azure;
+}

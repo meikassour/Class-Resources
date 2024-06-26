@@ -32,8 +32,20 @@ Please remember to use the examples provided in the `example_code` folder to hel
 - [HTML Mini Assignment 2 Solution](/solutions/html/mini_assignment_2.html)
 
 ## CSS
+### Mini Assignments
+Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
 
 ### Resources
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS Tutorial](https://www.w3schools.com/css/)
+- [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+### Games to practice flexbox and grid
+- [CSS Grid Garden](https://cssgridgarden.com/)
+- [CSS Flexbox Froggy](https://flexboxfroggy.com/)
+### Solutions
+- [CSS Mini Assignment 1 Solution](/solutions/css/mini_assignment_1.css)
+- [CSS Mini Assignment 2 Solution](/solutions/css/mini_assignment_2.css)
 
 ## Javascript, JQuery, p5.js
 

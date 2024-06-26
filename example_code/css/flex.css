@@ -1,0 +1,17 @@
+/*flex box is rather interesting, because it is designed to work best with collections of elements*/
+/*It makes it easy to align elements in a row or column, and to distribute space between them*/
+
+/*Here is an example of how to use flexbox on an element with the class container, and its children with the class item:*/
+.container {
+    display: flex; /* Use flexbox layout */
+    flex-direction: row; /* Arrange items in a row */
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+}
+
+.item {
+    flex: 1; /* Allow items to grow and shrink equally */
+    margin: 10px; /* Add margin around each item */
+    padding: 20px; /* Add padding inside each item */
+    background-color: #f2f2f2; /* Set background color for each item */
+}
