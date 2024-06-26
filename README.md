@@ -30,7 +30,7 @@ Please remember to use the examples provided in the `example_code` folder to hel
 ### Solutions
 - [HTML Mini Assignment 1 Solution](/solutions/html/mini_assignment_1.html)
 - [HTML Mini Assignment 2 Solution](/solutions/html/mini_assignment_2.html)
-
+<!--  -->
 ## CSS
 ### Mini Assignments
 Please remember to use the examples provided in the `example_code` folder to help you complete the mini assignments.
